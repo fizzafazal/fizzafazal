@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I am Fizza Fazal and I am currently a freshman at Bilkent University. I am studying Computer Engineering, and I am interested in learning programming, AI and technology. 
 
 <!--
 **fizzafazal/fizzafazal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
